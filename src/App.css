@@ -1,0 +1,12 @@
+/* You can style your components here */
+.search-container {
+  margin-top: 20px;
+}
+
+.results-container {
+  margin-top: 20px;
+}
+
+li {
+  margin-bottom: 20px;
+}
